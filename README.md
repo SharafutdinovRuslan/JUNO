@@ -3,6 +3,8 @@
 
 myBinder
 
+![Презентация](https://docs.google.com/presentation/d/15UvN_VAZ1Qr2wN5Ri9m0-B5kIcDUl2sAsFpdnCPElMU/edit#slide=id.g4abecbd356_0_184)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SharafutdinovRuslan/JUNO/master?filepath=JUNO_EDA.ipynb)
 
 Распределение шума в больших детекторах
