@@ -7,10 +7,10 @@ myBinder
 
 [Презентация](https://docs.google.com/presentation/d/15UvN_VAZ1Qr2wN5Ri9m0-B5kIcDUl2sAsFpdnCPElMU/edit#slide=id.g4abecbd356_0_184 "Презентация")
 
-Распределение шума в больших детекторах
+Распределение не шума в больших детекторах
 ![Распределение не шума в больших детекторах](https://github.com/SharafutdinovRuslan/JUNO/blob/master/1.png)
 
-Распределение шума в маленьких детекторах
+Распределение не шума в маленьких детекторах
 ![Распределение не шума в маленьких детекторах](https://github.com/SharafutdinovRuslan/JUNO/blob/master/2.png)
 
 Пространственное распределение больших детекторов двух типов (по двум пикам из распределения)
