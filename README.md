@@ -5,7 +5,7 @@ myBinder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SharafutdinovRuslan/JUNO/master?filepath=JUNO_EDA.ipynb)
 
-[Презентация](https://docs.google.com/presentation/d/15UvN_VAZ1Qr2wN5Ri9m0-B5kIcDUl2sAsFpdnCPElMU/edit#slide=id.g4abecbd356_0_184 "Презентация")
+[Презентация](https://docs.google.com/presentation/d/15UvN_VAZ1Qr2wN5Ri9m0-B5kIcDUl2sAsFpdnCPElMU/edit?usp=sharing "Презентация")
 
 Распределение не шума в больших детекторах
 ![Распределение не шума в больших детекторах](https://github.com/SharafutdinovRuslan/JUNO/blob/master/1.png)
